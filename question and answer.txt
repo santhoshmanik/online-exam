@@ -1,0 +1,126 @@
+1:   The common element which describe the web page, is ?
+A. heading
+B. paragraph
+C. list
+D. All of these =d
+
+2:   HTML stands for?
+A. 	Hyper Text Markup Language  
+B. 	High Text Markup Language
+C. 	Hyper Tabular Markup Language
+D. 	None of these =a
+
+3: which of the following tag is used to mark a begining of paragraph ?
+A.<TD>
+B. <br>
+C. <P>
+D. <TR> =c
+
+4: From which tag descriptive list starts ?
+A. <LL>
+B. <DD>
+C. <DL>
+D. <DS> =c
+
+5: Correct HTML tag for the largest heading is
+A. <head>
+B. <h6>
+C. <heading>
+D. <h1> =d
+
+6: The attribute of <form> tag
+
+ A. Method
+B. Action
+C. Both (a)&(b)
+D. None of these
+
+
+7:  Markup tags tell the web browser
+A. How to organise the page
+B. How to display the page
+C. How to display message box on page
+D. None of these
+  	
+8: www is based on which model?
+A. Local-server
+B. Client-server
+C. 3-tier
+D.None of these
+
+9:  What are Empty elements and is it valid?
+A. No, there is no such terms as Empty Element
+B. Empty elements are element with no data
+C. No, it is not valid to use Empty Element
+D. None of these
+  	
+10:  Which of the following attributes of text box control allow to limit the maximum character?
+A. size
+B. len
+C. maxlength
+D.all of these
+
+11:  Web pages starts with which ofthe following tag?
+A. <Body>
+B. <Title>
+C. <HTML>
+D. <Form>
+  	
+12:  HTML is a subset of
+A. SGMT
+B. SGML
+C. SGMD
+D. None of these
+  	
+13:  Which of the following is a container?
+A. <SELECT>
+B. <Value>
+C. <INPUT>
+D. <BODY>
+  	
+14:  The attribute, which define the relationship between current document and HREF'ed URL is
+A. 
+B. URL
+C. REV
+D. all of these
+  	
+15:  <DT> tag is designed to fit a single line of our web page but <DD> tag will accept a
+A. line of text
+B. full paragraph
+C. word
+D. request
+
+16: Character encoding is
+A. method used to represent numbers in a character
+B. method used to represent character in a number
+C. a system that consists of a code which pairs each character with a pattern,sequence of natural numbers or electrical pulse in order to transmit the data
+D. a system that consists of a code which pairs each character with a pattern,sequence of natural numbers or electrical pulse in order to transmit the data
+  	
+17: From which tag the descriptive list starts?
+A. <LL>
+B. <DD>
+C. <DL>
+D. <DS>
+  	
+18:  Correct HTML to left align the content inside a table cell is
+A. <tdleft>
+B. <td raligh = "left" >
+C. <td align = "left">
+D.<td leftalign>
+
+19: The tag which allows you to rest other HTML tags within the description is
+A. <TH>
+B. <TD>
+C. <TR>
+D. <CAPTION>
+  	
+20: <Base> tag is designed to appear only between
+A. <HEAD>
+B. <TITLE>
+C. <BODY>
+D. <FORM>
+
+
+
+
+
